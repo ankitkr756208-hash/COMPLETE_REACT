@@ -4,10 +4,13 @@
 // import Memo from './UseMemo/Memo';
 // import Ref from './UseRef/Ref';
 
-import Index from "./UseLayoutEffect/Index";
+// import Index from "./UseLayoutEffect/Index";
+
+// import Index from "./UseLayoutEffect/Index";
 
 // import Index from "./UseTransition/Index";
 
+import Index from "./UseId/Index";  
 
 
 const App = () => {
@@ -17,7 +20,7 @@ const App = () => {
       {/* <Demo /> */}
       {/* <Memo /> */}
       {/* <Ref /> */}
-      <Index />
+     <Index />
     </>
   );
 };
