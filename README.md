@@ -87,7 +87,8 @@ npm run dev
 **Ankit Kumar**
 
 * GitHub: https://github.com/ankitkr756208-hash
-* LinkedIn: https://leetcode.com/u/Ankit773930/
+* LinkedIn: ww.linkedin.com/in/
+ankit-kumar-ba1886375
 
 ---
 
