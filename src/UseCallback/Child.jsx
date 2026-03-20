@@ -7,7 +7,7 @@ const Child = ({handleClick,counter1}) => {
     }, [handleClick])
     
   return (
-    <div>
+    <div style={{margin:"10px",padding:"10px",border:"1px solid black"}}>
         <h1>Child Componenets ={counter1}</h1>
         <button onClick={handleClick}>Increase Child Counter</button>
     </div>

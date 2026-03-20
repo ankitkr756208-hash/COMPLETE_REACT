@@ -8,7 +8,7 @@ const Index = () => {
 
     }, [color])//Dependcy
   return (
-    <div>
+    <div style={{textAlign:"center",padding:"20px"}}>
         <div style={{textAlign:"center",padding:"20px"}}>
             <h2>Current Bg color={color}</h2>
             <button onClick={() => setcolor("red")}>Red</button>
